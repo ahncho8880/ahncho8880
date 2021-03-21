@@ -1,6 +1,4 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Chulhyun%20Ahn&fontSize=90" />
-</p>
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 <p align="center">🌱Junior software engineer</p>
 
@@ -20,14 +18,12 @@
 
 <p align="center">📫Contact</p>
 <p align="center">
-<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:ahncho8880@gmail.com" />
 </p>                                         
-<a align="center">
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fahncho8880&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-
-</a>
+![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer)
 <!---
 ahncho8880/ahncho8880 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
